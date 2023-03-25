@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulgourab
-- 👀 I’m interested in Netwprking.
+- 👀 I’m interested in Networking.
 - 🌱 I’m currently learning Networking.
 - 💞️ I’m looking to collaborate on Networking.
 - 📫 How to reach me? Email: paulgourab399@gmail.com

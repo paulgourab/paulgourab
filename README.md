@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @paulgourab
   - 🌐 Network & Cloud Solutions Administrator | Certified Professional
-- 💻 Proficient in:  
+- 💻 Proficient in:
+  - MS AZ-104 Certified
   - **Networking & Security**: CCNA, Network Security, RHCSA/RHCSE, Ansible Automation  
   - **Cloud Platforms**: AWS, Azure, Microsoft 365  
   - **Programming & Development**: Python, C++, Go, Java, Web Development, Android (Java/Kotlin)  
@@ -8,9 +9,9 @@
   - **Version Control**: Git & GitHub  
 
 🌟 Currently exploring:  
-  - Advanced Azure Infrastructure (AZ-104 Certification)  
-  - Enhancing Japanese translation skills  
-  - Automation with Docker, Ansible, Terreform, Jenkins & CI/CD practices  
+    - Advanced Azure Infrastructure 
+    - Enhancing Japanese translation skills  
+    - Automation with Docker, Ansible, Terreform, Jenkins & CI/CD practices  
 
 📫 Connect with me:  
   - LinkedIn: www.linkedin.com/in/gourab-kanti-paul-901498210  

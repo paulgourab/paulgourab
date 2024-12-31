@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paulgourab
+- 👋 Hi, I’m Gourab Paul!
   - 🌐 Network & Cloud Solutions Administrator | Certified Professional
 - 💻 Proficient in:
   - MS AZ-104 Certified
